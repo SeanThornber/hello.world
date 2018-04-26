@@ -1,2 +1,2 @@
 # hello.world
-THis is me testing out GitHub
+THis is me testing out Git   Hub
